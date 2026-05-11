@@ -1,0 +1,19 @@
+window.CPPool380Init = function() { cp.model['380Data']={
+};cp.poolSlideResources['pool380']={
+};
+cp.poolSlideVideoResources['pool380']={
+};
+cp.model.data['380']={
+pqs:[],
+gqs:[],
+sqs:[],
+rgqs:[],
+rsqs:[],
+hasCC:false
+};
+cp.poolResources["380Images"]=[];
+cp.poolResources["380Videos"]=[
+];
+cp.poolResources["380SlideVideos"]=[
+];
+}
